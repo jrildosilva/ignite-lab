@@ -12,6 +12,7 @@ export default {
            <Envelope/>
           </TextInput.Icon>
 
+         
           <TextInput.Input placeholder= "Tipe your e-mail address" />
           
       </>
